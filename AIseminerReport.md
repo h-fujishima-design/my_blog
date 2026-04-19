@@ -1,59 +1,138 @@
-# Learning from building with AI seminar supported by GDG Cloud Toronto
+# Learning from Building with AI  
+### Seminar supported by GDG Cloud Toronto
 
-I attended a seminar at 4/18/2026 at George Brown College. This is first action after I've devided to expand my connections and get idea from someone. 
-I wanted to learn actually how to utilize AI tools in real-world problem.
+On **April 18, 2026**, I attended a seminar at George Brown College hosted by GDG Cloud Toronto.
 
-## We can learn AI tools through **Google Skills**
+This was my **first step after deciding to actively expand my network and learn from others**. Recently I’ve been building small projects with AI, but I wanted to understand **how AI tools are actually used in real business situations**.
+
+Attending this event helped me see practical examples of how AI agents can support research, ideation, and business workflows.
+
+---
+
+## Learning AI through Google Skills
+
+One of the key things introduced at the seminar was **Google Skills**.
+
+According to the official announcement:
+
+> A new platform, Google Skills, that brings together nearly **3,000 courses and labs** in one place — including learning materials from Google Cloud, Google DeepMind, Grow with Google, and Google for Education.
+
+You can read more here:
 
 [Article about Google Skills](https://cloud.google.com/blog/topics/training-certifications/google-skills-new-home-AI-learning?hl=en)
-According to official announcement, **Google Skills** site opened October in 2025. 
 
-<kbd>A new platform, Google Skills, that will bring together nearly 3,000 courses and labs in one place — including content from across Google Cloud, Google DeepMind, Grow with Google and Google for Education.</kbd>
+I was especially excited to learn about the **Gemini Enterprise Agent Ready (GEAR) program**, which allows learners to build practical AI agent skills and potentially gain **career opportunities or hiring pathways**.
 
-I excited that they offered **Gemini Enterprise Agent Ready (GEAR) program** where skilled individuals might earn opportunity for hiring. As a new grad student, 
-I eager to learn skills thogurh this platform and hopefully get an opportunity for job interview.
+As a recent graduate, this felt like a very practical learning path for entering the AI field.
 
-## Point of **Introduction to Gemini Enterprise**
+---
 
-They introduced hands-on lecture using above course which we can find in Google skills platform. The time estimate is 1 hour 30 minutes. 
-There is a real business use case and student require figure out the problem.
-They temporarily grant permission to us Google account so we can use it for free when we training.
-After granted account, just few click made me achieve those tasks have done.
+## Hands-on Session: Introduction to Gemini Enterprise
 
-<kbd>
-*Create a Gemini Enterprise app.
-*Use Gemini Enterprise agents to find, summarize, and extract content from different data stores.
-*Create a deep research report agent.
-*Create a multi-agent ideation session.
-*Utilize NotebookLM for focused, document-grounded analysis and generate an audio overview of curated sources.
-</kbd>
+During the seminar we completed a **hands-on workshop** based on a course available on Google Skills.
 
-Once I create Google Enterprise Application, I can use AI agents. After add business data through Google Console(just few clicks!), it was easy to connect Google Enterprise Application.
-AI agent could be done those tasks.
+The estimated learning time for the course is **about 1 hour and 30 minutes**, and it walks through a realistic business scenario where participants must solve a problem using AI agents.
 
-<kbd>
-*Agents: Use some Google-provided agents or create your own to help with tasks like research, iterating on ideas, or more.
-*Idea Generation: Create a multi-agent ideation session with a team of agents.
-*NotebookLM: an AI-powered research and writing assistant that works best with the sources you upload.
-*Deep Research: an agentic feature in Gemini that can automatically browse up to hundreds of websites on your behalf, think through its findings, and create insightful multi-page reports in minutes.
-</kbd>
+Participants were temporarily given **access to a Google account with enterprise permissions**, allowing us to try the tools for free during the training.
 
-It was easy to get idea, research, summrize company data with citations. The completed file attached detailed citations so I don't need find where AI bring those data and infomation.
+With only a few steps, we were able to complete several tasks such as:
 
-In the same screen, we also can utilize studio actions.
-Audio overview, video overview, mind map, reports.
-It make easier to understand what they report visually. 
+- Creating a **Gemini Enterprise application**
+- Using **AI agents** to search, summarize, and extract information from different data sources
+- Creating a **deep research report agent**
+- Running a **multi-agent ideation session**
+- Using **NotebookLM** for document-based research and generating an **audio overview**
 
-Those function help us a lot with AI technology. We don't need hire specialist of research, marketing, and other skilled worker who did same work.
+After creating the application and connecting business data through the console (which only took a few clicks), the AI agents were able to process the data and generate structured results.
 
-## Blueprint of future learning
+---
 
-I realized that GEAR **Gemini Enterprise Agent Ready program** could be expand my career. I will start learning AI from here.
-I'm thinking to get certificate from here as well.
+## Features that stood out
 
-I just start startup and try to make AI service randomly. However I realize that not help me to build my career.
-I got some idea and this event motivate me a lot.
-Taking action in the real world often leads to new ideas.
+Several features demonstrated how AI agents can support knowledge work.
 
+### AI Agents
 
+- Use Google-provided agents or create custom ones
+- Assist with tasks such as research, idea generation, and information analysis
 
+### Multi-agent ideation
+
+- Multiple AI agents collaborate to generate ideas and perspectives
+
+### NotebookLM
+
+- An AI-powered research and writing assistant
+- Works best when grounded in the documents you upload
+
+### Deep Research
+
+An agentic feature that can automatically:
+
+- Browse hundreds of websites
+- Analyze information
+- Generate detailed multi-page reports with citations
+
+One thing I found particularly useful was that **all outputs included citations**, so I could easily trace where the information came from.
+
+---
+
+## Visualization tools inside the workspace
+
+Another interesting part of the platform was the **Studio actions**, which help visualize and explore generated information.
+
+Examples include:
+
+- Audio overview
+- Video overview
+- Mind map
+- Structured reports
+
+These features make complex information easier to understand and share.
+
+---
+
+## Key takeaway
+
+One realization from this experience was how AI tools are changing the workflow of many knowledge-based roles.
+
+Tasks that previously required multiple specialists — such as:
+
+- Research
+- Information gathering
+- Initial market analysis
+- Report preparation
+
+can now be **accelerated with AI agents working together**.
+
+Of course, human judgment and expertise are still essential, but AI can significantly reduce the time required for early-stage analysis and ideation.
+
+---
+
+## My next learning step
+
+After attending this event, I became interested in pursuing the **Gemini Enterprise Agent Ready (GEAR) program**.
+
+My goal is to:
+
+- Deepen my understanding of **AI agent workflows**
+- Gain practical experience building AI-powered tools
+- Potentially earn certifications through the program
+
+Recently I started experimenting with building AI services for a startup idea. However, I realized that **random experimentation alone is not enough to build a strong career path**.
+
+This seminar helped me see the importance of:
+
+- Learning structured skills
+- Connecting with people in the field
+- Applying AI to real-world problems
+
+---
+
+## Final thought
+
+This event reminded me that **taking action in the real world often leads to new ideas**.
+
+Simply attending one seminar gave me new perspectives, motivation, and learning directions.
+
+I’m looking forward to continuing this journey in AI.
