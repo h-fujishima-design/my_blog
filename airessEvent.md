@@ -1,16 +1,29 @@
-# Learning from an AI Community Event
+# Learning from "Break the Pattern" AI Event
 
-## Unexpected Experience Before the Event
+I attended **"Airess x Women Techmakers x GDG Mississauga: Break the Pattern"**, a community tech event focused on AI learning and collaboration.
 
-Before attending this event, I had a stressful experience.
+The event was hosted by **Airess**, **GDG Mississauga**, and **Women Techmakers**, and brought together people interested in technology, AI, and building products.
 
-I had previously been scammed by an event called **“10th Global Conference on Machine Learning and Artificial Intelligence 2026.”**
+### Event Schedule
 
-The organizer asked participants to pay **300 CAD for registration**, but when I arrived at the hotel venue, the receptionist told me that **the event itself was a scam**.
+6:00–6:05 pm | Arrival  
+6:05–6:30 pm | Welcome & Intro Circles  
+6:30–7:00 pm | Panel and Q&A  
+7:00–7:40 pm | Build Challenge  
+7:40–8:00 pm | Show & Tell
 
-Because of that experience, I became very cautious and even doubted whether the event I was about to attend actually existed.
+### Build Challenge
 
-Fortunately, the event I attended this time **was legitimate and well organized**, which was a relief.
+During the build challenge, participants worked in small teams to design an app using **Google AI Studio**.
+
+The scenario was about **Sarah**, who wants to learn machine learning.  
+She searched online and saved **38 bookmarks** and checked about **20 courses**, but she never actually started learning.
+
+The challenge question was:
+
+**How can we break this pattern and help Sarah take action?**
+
+Each group discussed ideas and designed a solution to help users move from **collecting resources** to **actually starting learning**.
 
 ---
 
